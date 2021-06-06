@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "quizz"
+    }
+  },
+  "defaultProject": "quizz",
+  "cli": {
+    "analytics": "cf5b9029-e077-4d69-95e0-4b7565ff212e"
+  }
 }
